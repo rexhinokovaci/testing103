@@ -1,0 +1,7 @@
+venv
+*.pyc
+staticfiles
+.env
+.idea
+backend/settings/local.py
+.idea/workspace.xml
